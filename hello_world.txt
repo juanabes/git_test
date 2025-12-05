@@ -1,1 +1,2 @@
-hi world, this is a git test!
+last message: hi world, this is a git test!
+new message: this is new text. Hi I'm a new text
